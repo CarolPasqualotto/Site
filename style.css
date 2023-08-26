@@ -1,0 +1,53 @@
+.p{
+    font-size: 15pt;
+}
+.a{
+    width: 40%;
+    margin-left: 10%;
+
+}
+
+.b{
+    width: 35%;
+    margin-right: 10%;
+    float: right;
+    height: 60%;
+}
+.c{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.d {
+    width: 35%;
+    margin-left: 10%;
+}
+
+button{
+    margin-top: 17px;
+    background-color: #87CEFA;
+    width: 150px;
+    height: 25px;
+}
+
+.imagem1 {
+    text-align: right;
+    width: 40%;
+    margin-right: 10%;
+    float: right;
+    height: 50%;
+
+}
+
+.margem4 {
+    background: rgb(182, 179, 179);
+    color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%
+}
